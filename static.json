@@ -1,7 +1,8 @@
 {
   "headers": {
   "/*": {
-      "X-Author" : "javascript"
+      "X-Author" : "javascript",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 
